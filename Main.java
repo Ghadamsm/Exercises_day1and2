@@ -1,3 +1,4 @@
+import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
@@ -258,10 +259,9 @@ public class Main {
 //Expected Output: Wednesday1
 
 
-
-//                  System.out.println("enter 1 to 7 to show the day");
-//                 int day = s.nextInt();
-//
+//        Random ra = new Random();
+//        int day ;
+//        day = ra.nextInt(8);
 //            switch (day){
 //            case 1:
 //                  System.out.println("sunday");
@@ -286,10 +286,8 @@ public class Main {
 //                  System.out.println("Saturday");
 //                break;
 //
-//            default:
-//                  System.out.println("please enter valid number!");
 //        }
-//
+
 
 
 
